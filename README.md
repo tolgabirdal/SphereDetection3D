@@ -5,11 +5,13 @@ This repository provides the MATLAB implementation and some data to run the sphe
 [Tolga Birdal](http://tolgabirdal.github.io/), Benjamin Busam, Nassir Navab, Slobodan Ilic, Peter Sturm
 Imperial College London | Technical University of Munich | Siemens AG
 
-![SphereDetection](assets/sphere_detections.jpg?raw=true)
+![SphereDetection](assets/SphereDetection.jpg?raw=true)
 
 ### Data and Running the Demo
 
-Data is located under the 'datasets' subfolder. Please run test_spheres.m to run it on the provided examples.
+Data is located under the `datasets` subfolder. Please run `test_spheres.m` to run it on the provided examples. 
+We implement the most basic form of Alg. 1 of the main paper under `quadric-detection/fit_conic_birdal_sturm.m`.
+The approximate fitting in Alg. 2 as well as the null-space solution can be found in `quadric-detection/fit_conic_birdal_under.m`.
 
 ### Citation
 
