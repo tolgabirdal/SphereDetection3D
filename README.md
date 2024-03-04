@@ -1,5 +1,5 @@
 # Generic Primitive Detection in Point Clouds Using Novel Minimal Quadric Fits
-This repository provides the MATLAB implementation and some data to run the sphere detection part of Birdal et al. CVPR'18 / PAMI'19.  It represents the official implementation of the paper:
+This repository provides the MATLAB implementation and some data to run the sphere detection part of Birdal et al. CVPR'18 / PAMI'19.  It represents the official yet partial implementation of the paper:
 
 ### [Generic Primitive Detection in Point Clouds Using Novel Minimal Quadric Fits](https://arxiv.org/abs/1901.01255)
 [Tolga Birdal](http://tolgabirdal.github.io/), Benjamin Busam, Nassir Navab, Slobodan Ilic, Peter Sturm\
