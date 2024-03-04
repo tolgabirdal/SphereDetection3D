@@ -31,6 +31,7 @@ If you found this code or paper useful, please consider citing:
   year={2019},
   publisher={IEEE}
 }
+
 @inproceedings{birdal2018minimalist,
   title={A minimalist approach to type-agnostic detection of quadrics in point clouds},
   author={Birdal, Tolga and Busam, Benjamin and Navab, Nassir and Ilic, Slobodan and Sturm, Peter},
