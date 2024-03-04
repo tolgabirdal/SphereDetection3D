@@ -5,7 +5,7 @@ This repository provides the MATLAB implementation and some data to run the sphe
 [Tolga Birdal](http://tolgabirdal.github.io/), Benjamin Busam, Nassir Navab, Slobodan Ilic, Peter Sturm
 Imperial College London | Technical University of Munich | Siemens AG
 
-![WSR3DSF](assets/sphere_detections.jpg?raw=true)
+![SphereDetection](assets/sphere_detections.jpg?raw=true)
 
 ### Data and Running the Demo
 
