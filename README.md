@@ -3,7 +3,7 @@ This repository provides the MATLAB implementation and some data to run the sphe
 
 ### [Generic Primitive Detection in Point Clouds Using Novel Minimal Quadric Fits](https://arxiv.org/abs/1901.01255)
 [Tolga Birdal](http://tolgabirdal.github.io/), Benjamin Busam, Nassir Navab, Slobodan Ilic, Peter Sturm\
-Imperial College London | Technical University of Munich | Siemens AG
+Imperial College London | Technical University of Munich | INRIA | Siemens AG
 
 ![SphereDetection](assets/SphereDetection.JPG?raw=true)
 
