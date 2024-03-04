@@ -9,7 +9,7 @@ Imperial College London | Technical University of Munich | Siemens AG
 
 ### Data and Running the Demo
 
-Data is located under the `datasets` subfolder. Please run `test_spheres.m` to run it on the provided examples. \
+Data is located under the `datasets` subfolder. Please run `test_spheres.m` to run it on the provided examples. The code implements the general form in Alg. 3 for the specific case of spheres (see Sec. 6.3.4).\
 We implement the most basic form of Alg. 1 of the main paper under `quadric-detection/fit_conic_birdal_sturm.m`.\
 The approximate fitting in Alg. 2 as well as the null-space solution can be found in `quadric-detection/fit_conic_birdal_under.m`.\
 Finally, I provide a nonlinear sphere refinement algorithm in `quadric-detection/fit_sphere_mestimator.m`. This is not well tested though.
