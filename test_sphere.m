@@ -5,7 +5,8 @@ close all;
 add_libs;
 
 folder = './datasets/spheres-pc';
-fn = [folder '/0000233-000007741666.ply'];
+%fn = [folder '/0000233-000007741666.ply'];
+fn = [folder '/0000001-000000000000 (1).ply'];
 
 ptCloud = pcread(fn);
 
